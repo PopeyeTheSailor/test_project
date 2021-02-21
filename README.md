@@ -1,2 +1,2 @@
-# my_project
+# project
 This is my project
